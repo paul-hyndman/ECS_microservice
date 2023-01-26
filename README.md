@@ -1,4 +1,4 @@
-# A project showing how to create public ECS API infrastructure and deploy a containerized code to it using Python CDK.
+# A project showing how to create public ECS API infrastructure and deploy containerized code to it using Python CDK.
 # Project creates AWS artifacts:
 #  - VPC
 #  - Load Balancer
